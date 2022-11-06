@@ -7,7 +7,7 @@ header,
 footer {
     width: 100%;
     height: 100px;
-    background-color: rgb(255, 31, 31);
+    background-color: rgb(163, 200, 216);
     color: rgb(255, 255, 255);
 }
 
@@ -24,7 +24,7 @@ img {
 }
 ul {
     padding-left: 40px;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 p {
@@ -33,8 +33,12 @@ p {
   }
 
   .card {
-    width: 80%;
-    margin: 40px auto;
-    border: 5px solid rgb(203, 152, 152);
-    box-shadow: 5px 10px #888888;
+    width: 85%;
+    margin: 5% auto;
+    border: 2px solid rgb(175, 193, 201);
+    box-shadow: 5px 6px #e1e1e1;
   }
+
+
+
+
